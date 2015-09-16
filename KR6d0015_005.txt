@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:55.879770
+#+DATE: 2015-08-30 19:47:58.687525
 #+TITLE: 法華文句記
 #+PROPERTY: CBETA_ID T34n1719
 #+PROPERTY: ID KR6d0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1719
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6d0015_T_005-0234c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 第五上法華文句記卷第五(上)¶
+法華文句記卷第五(上)¶
 ¶
 唐天台沙門湛然述¶
 
@@ -574,8 +573,7 @@
 法華文句記卷第五(上)¶
 ¶
 ¶
-
- 第五中法華文句記卷第五(中)¶
+法華文句記卷第五(中)¶
 ¶
 唐天台沙門湛然述¶
 
@@ -1227,8 +1225,7 @@
 法華文句記卷第五(中)
 <pb:KR6d0015_T_005-0247c>¶
 ¶
-
- 第五下法華文句記卷第五(下)¶
+法華文句記卷第五(下)¶
 ¶
 唐天台沙門湛然述¶
 
@@ -1738,11 +1735,7 @@
 <pb:KR6d0015_T_005-0253a>¶
 俱捨方堪授記。¶
 
-釋譬喻品
-:PROPERTIES:
-:head: 釋譬喻品
-:END:
-¶
+釋譬喻品¶
 
 有人於此立來意。云大凡無譬應有譬成¶
 小。有云。佛法多門門門有譬。此則可爾。云¶
